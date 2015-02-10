@@ -12,6 +12,8 @@ To operate:
 5. Expand the tree and select "colorName" as the key value (place checkmark next to it)  
 6. Select the output tab & click the "Parse To Excel" button  
   
+* Blue values represents end KeyNames that are valid entries for a new line break.
+* None blue lines will are master keys that a new line cannot be broken by 
   
 Note: 
 Not all files are suitable for representation as tabular view.  
